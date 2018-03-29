@@ -26,4 +26,5 @@ Example:
 Please follow the [Huobi Api reference](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference)
 
 Inspired by [ericls/huobi](https://github.com/ericls/huobi)
+
 Just for fun.
